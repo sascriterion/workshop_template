@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="eCSR4U8l8wrRCa6OR5x0">
-    <mxGraphModel dx="919" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,9 +34,9 @@
             <mxPoint x="1310" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;MND Political Office Holders&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;amp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Senior Management&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" link="https://gccprod.sharepoint.com/sites/MND-intranet/aboutmnd/OrgChart/POHs%26SeniorManagement.pdf" linkTarget="_blank" id="yK3yvu3M9NsNqcs9bBMU-2">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;MND Political Office Holders&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 20px; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 20px; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;Senior Management&lt;/b&gt;" link="https://gccprod.sharepoint.com/sites/MND-intranet/aboutmnd/OrgChart/POHs%26SeniorManagement.pdf" linkTarget="_blank" id="yK3yvu3M9NsNqcs9bBMU-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#262e7b;strokeColor=none;" parent="1" vertex="1">
-            <mxGeometry x="660" y="40" width="320" height="100" as="geometry" />
+            <mxGeometry x="551" y="40" width="540" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="yK3yvu3M9NsNqcs9bBMU-5" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#262e7b;" parent="1" edge="1">
